@@ -116,7 +116,7 @@ nav {
 
 .text {
   padding-top: 100px;
-  background-image: url(assets/home-page.jpg);
+  background-image: url(./assets/home-page.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
   object-fit: cover;
@@ -363,7 +363,7 @@ footer h5 a {
 }
 
 .shopImg {
-  background-image: url(/assets/shop-page.png);
+  background-image: url(./assets/shop-page.png);
   background-repeat: no-repeat;
   background-size: 100%;
   object-fit: cover;
@@ -517,7 +517,7 @@ option {
 }
 
 #pageHeader.aboutPage {
-  background-image: url(/assets/about.jpg);
+  background-image: url(./assets/about.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
